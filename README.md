@@ -1,2 +1,2 @@
 # Firebase Template
-# SwiftUI-Firebase-Template
+ SwiftUI-Firebase-Template
